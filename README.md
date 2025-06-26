@@ -128,7 +128,7 @@ git push -u origin main
 
 ## 👨‍💻 Author
 
-Built by [Your Name](https://github.com/NwogboPrince)
+Built by [NWOGBO PRINCE](https://github.com/NwogboPrince)
 
 ---
 
