@@ -4,7 +4,7 @@ import { AiOutlineArrowRight } from "react-icons/ai";
 import { BiCommentDetail } from "react-icons/bi";
 import { AiOutlineHeart } from "react-icons/ai";
 import { useDispatch, useSelector } from "react-redux";
-import { fetchBlog } from "../../redux/features/singleBlog/BlogSlice"; // <-- Correct import
+import { fetchBlog } from "../../Redux/features/singleBlog/BlogSlice"; // <-- Correct import
 
 const SingleBlog = () => {
     const { id } = useParams()
